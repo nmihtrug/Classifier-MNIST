@@ -1,5 +1,5 @@
 numpy
 Pillow
 streamlit
-streamlit_drawable_canvasz
+streamlit_drawable_canvas
 torch
