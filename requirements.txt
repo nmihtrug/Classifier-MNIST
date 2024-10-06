@@ -1,0 +1,5 @@
+numpy
+Pillow
+streamlit
+streamlit_drawable_canvasz
+torch
